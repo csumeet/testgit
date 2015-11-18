@@ -13,5 +13,6 @@
    </hash>
    <list n="listOfChildren">
       <hash><url n="URL" path="git.jpr"/></hash>
+      <hash><url n="URL" path="TestSOA/TestSOA.jpr"/></hash>
    </list>
 </jws:workspace>
